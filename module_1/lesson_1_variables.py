@@ -24,9 +24,9 @@ print(astronaut_name, astronaut_age, fuel, is_engine_running, astronauts, astron
 # Fuel consumed = Distance / Fuel efficiency
 # Time = Distance / Speed
 
-travel_time = 10
-speed = 5000
-fuel_efficiency = 10
+travel_time = 10  # hours
+speed = 5000      # kilometers per hour
+fuel_efficiency = 10  # kilometers per liter
 first_name = "Sally"
 last_name = "Ride"
 
